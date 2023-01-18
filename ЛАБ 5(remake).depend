@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674044521 source:c:\users\lenovo\desktop\Інформатика\ЛАБ 5(remake)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
